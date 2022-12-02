@@ -7,7 +7,6 @@ const { readFileSync, promises: fsPromises } = require("fs");
 const { stringify } = require("querystring");
 let arr = [];
 let split = [];
-let split2 = [];
 let length = 0;
 
 let saveNum = "";
